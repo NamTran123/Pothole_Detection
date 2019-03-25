@@ -4,10 +4,10 @@ Pothole detection
 # Original Image
 ![alt text](https://github.com/NamTran123/Pothole_Detection/blob/master/infonet_11.jpg)
 
-# """Applies a Gaussian Noise kernel"""
+# Applies a Gaussian Noise kernel
 ![alt text](https://github.com/NamTran123/Pothole_Detection/blob/master/gaussian_blur.jpg)
 
-# increase contrast
+# Increase contrast
 ![alt text](https://github.com/NamTran123/Pothole_Detection/blob/master/contrast_adjustments.jpg)
 
 # Threshold
@@ -18,7 +18,7 @@ Pothole detection
 
 # Dilation
 ![alt text](https://github.com/NamTran123/Pothole_Detection/blob/master/dilation.jpg)
-# """Applies the Canny transform"""
+# Applies the Canny transform
 ![alt text](https://github.com/NamTran123/Pothole_Detection/blob/master/edges.jpg)
 
 # Output
