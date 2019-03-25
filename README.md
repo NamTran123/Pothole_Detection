@@ -1,5 +1,4 @@
 # Pothole_Detection
 Pothole detection
 
-Pothole_Detection/output.jpg
-      
+![alt text](Pothole_Detection/output.jpg)
